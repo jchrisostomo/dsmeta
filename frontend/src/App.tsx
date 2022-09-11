@@ -6,11 +6,11 @@ function App() {
   return (
     <>
       <Header />
-      <NotificationButton />
+
       <main>
         <section id="sales">
           <div className="dsmeta-container">
-          <NotificationButton />
+
           <SalesCard />
           </div>
         </section>
